@@ -1,5 +1,5 @@
 void main(List<String> arguments) {
-  String kec = 'Ciranjang';
+  String kec = 'Cilaku';
   String kab = 'Cianjur';
   String prov = 'Jawa Barat';
 
